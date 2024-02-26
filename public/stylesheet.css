@@ -1,0 +1,19 @@
+/* stylesheet.css */
+
+/* body {
+    background-color: #5b04042f;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ae0707; /* Text color for h1 elements 
+} */
+
+
+a[href*='https://github.com/Chainlit/chainlit'] {
+    visibility: hidden;
+}
+
+.watermark {
+    display: none !important;
+  }
